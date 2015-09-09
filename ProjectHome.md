@@ -1,0 +1,2 @@
+Our goal is to make a convenient web site for tourists, who can search every tourist spot and find the detail information about this spot. The tourist could send spot-detailed information to his/her cellphone via SMS/MMS, or browse this site and find what his/her want using their cellphone.
+Later, we want this site help tourists know more about the spot or city they are traveling, and provide much more convenience for tourists.
